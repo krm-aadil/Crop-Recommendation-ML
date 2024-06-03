@@ -1,6 +1,6 @@
 # Crop Recommendation System
 
-![Crop Recommendation System](https://your-image-link.com/image.jpg)
+![Crop Recommendation System](https://github.com/krm-aadil/GIT-IMAGES/blob/main/WhatsApp%20Image%202024-06-04%20at%2002.30.41.jpeg?raw=true)
 
 This is a Streamlit-based web application that recommends crops based on soil and weather conditions. The application uses a machine learning model trained on a crop recommendation dataset.
 
